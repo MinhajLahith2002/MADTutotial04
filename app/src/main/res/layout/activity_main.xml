@@ -42,5 +42,6 @@
             android:layout_height="wrap_content"
             android:backgroundTint="#F8E403"
             android:text="Good Bye" />
+
     </LinearLayout>
 </LinearLayout>
